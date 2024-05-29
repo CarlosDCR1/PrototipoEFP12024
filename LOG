@@ -1,0 +1,92 @@
+commit 4052e7edfab2b7302bdc76dc9a0d5a0755482a29
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:38:37 2024 -0600
+
+    Correcion estetica clinica
+
+commit f2eb9d828f1a687ec0aa63ea4ca60852e3b70d67
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:35:18 2024 -0600
+
+    Cambios medico
+
+commit ac5d2e503ddb565c99eb107e1ab89429b0bee632
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:31:06 2024 -0600
+
+    Subiendo Log
+
+commit db9916ba0a4ef615d029c21612c17f8ce010e00d
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:28:28 2024 -0600
+
+    Archivos de Reportes
+
+commit 81360b08b93615403c7710665776b952833e1128
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:18:41 2024 -0600
+
+    Archivos.dat Creados
+
+commit 236504de12cc7ddbf7432a7949db16baf3c136ca
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:07:24 2024 -0600
+
+    bitacora
+
+commit 135ff9765efda525841d27207ad28d8cc156d7e8
+Merge: fedb1ef f28c2cc
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:02:09 2024 -0600
+
+    Merge branch 'RamaReportes848' of https://github.com/CarlosDCR1/PrototipoEFP12024
+
+commit f28c2cc35afed3205e43208043127ef8b5f1b800
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 10:01:09 2024 -0600
+
+    Reportes
+
+commit fedb1efbbe230d52c45d296cd1d07de048c5dd04
+Merge: ed79e2c 26f8069
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 09:55:27 2024 -0600
+
+    Merge branch 'RamaCRUD_CatalogoX848' of https://github.com/CarlosDCR1/PrototipoEFP12024
+
+commit 26f80696b40dd26dd9d618a8cb32f31e031479bc
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 09:53:04 2024 -0600
+
+    Archivos Catalogo
+
+commit ed79e2cb6f4b32108f3d445a3804584ddc012767
+Merge: be89876 a92911c
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 09:49:09 2024 -0600
+
+    Merge branch 'RamaMenuGeneral848' of https://github.com/CarlosDCR1/PrototipoEFP12024
+
+commit a92911cf91370176c0e73c7a2fd87f0040309c4e
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 09:40:57 2024 -0600
+
+    Menu general
+
+commit be898768f692700c73692615efe4bc8108caccaa
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 09:37:20 2024 -0600
+
+    Colocando archivo usuarios
+
+commit 017355481e2dbd86380314400ccb4eaaa59adf51
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 09:30:27 2024 -0600
+
+    comit 1
+
+commit 327d2127e8ef9f23fdaf61d4ecad4b9a1014c4a9
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed May 29 09:24:11 2024 -0600
+
+    Primer archivo
