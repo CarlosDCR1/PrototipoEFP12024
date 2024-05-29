@@ -8,6 +8,7 @@
 #include <iomanip>
 #include <string>
 
+
 using namespace std;
 
 void ClinicaCRUD::CrudClinicas() {
@@ -55,6 +56,7 @@ void ClinicaCRUD::CrudClinicas() {
         }
     } while (choice != 5);
 }
+
 
 // Función que valida si ya existe la clínica para evitar redundancia de datos
 bool ClinicaCRUD::ValidarClinica(int codigo) {
