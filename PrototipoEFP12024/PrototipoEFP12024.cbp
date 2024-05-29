@@ -7,21 +7,23 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/PrototipoEFP12024" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Ultima_serie_examen_final" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/PrototipoEFP12024" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Ultima_serie_examen_final" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,9 +34,25 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Clinicas.h" />
+		<Unit filename="include/bitacora.h" />
+		<Unit filename="include/entrenador.h" />
+		<Unit filename="include/horario.h" />
+		<Unit filename="include/login.h" />
+		<Unit filename="include/medico.h" />
+		<Unit filename="include/menu.h" />
+		<Unit filename="include/resultados.h" />
+		<Unit filename="include/usuarios.h" />
 		<Unit filename="main.cpp" />
-		<Extensions>
-			<lib_finder disable_auto="1" />
-		</Extensions>
+		<Unit filename="src/Clinicas.cpp" />
+		<Unit filename="src/bitacora.cpp" />
+		<Unit filename="src/entrenador.cpp" />
+		<Unit filename="src/horario.cpp" />
+		<Unit filename="src/login.cpp" />
+		<Unit filename="src/medico.cpp" />
+		<Unit filename="src/menu.cpp" />
+		<Unit filename="src/resultados.cpp" />
+		<Unit filename="src/usuarios.cpp" />
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
