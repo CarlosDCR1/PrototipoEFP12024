@@ -47,6 +47,7 @@ void HorarioCRUD::CrudHorarios() {
                 DesplegarHorario();
                 break;
             case 5:
+                system("cls");
                 break;
             default:
                 cout << "\n\t\t\t Opcion invalida...Por favor prueba otra vez..";

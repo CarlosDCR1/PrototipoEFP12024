@@ -27,7 +27,7 @@ void menu::MenuGeneral()
         cout << "\n";
         cout << "\t+------------------------------------------+" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|  Isabel Melendez \t9959-23-1379       |" << endl;
+        cout << "\t|  Carlos Calderon \t9959-23-848        |" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
         cout << "\t|\t\tMenu general\t\t   |" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;

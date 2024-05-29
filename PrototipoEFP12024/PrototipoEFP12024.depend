@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1716961845 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\menu.h
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716998708 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\usuarios.h
+	<iostream>
+
+1716998708 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716999129 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\clinicas.cpp
+	"clinicas.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\clinicas.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716998695 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\entrenador.h
+	<iostream>
+
+1716999308 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\horario.cpp
+	"horario.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\horario.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716998695 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716999199 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\medico.cpp
+	"medico.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\medico.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716998695 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\resultados.cpp
+	"resultados.h"
+	"entrenador.h"
+	"Clinicas.h"
+	"medico.h"
+	"horario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716998695 c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\include\resultados.h
+	<string>
+
+1716998695 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716998963 source:c:\users\calde\desktop\umg\progra1\prototipoefp12024\prototipoefp12024\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"horario.h"
+	"Clinicas.h"
+	"medico.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"resultados.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+
