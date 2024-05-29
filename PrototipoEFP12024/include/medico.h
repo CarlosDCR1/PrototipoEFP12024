@@ -1,6 +1,7 @@
 #ifndef MEDICO_H
 #define MEDICO_H
 
+
 #include <iostream>
 #include <stdlib.h>
 #include <conio.h>
@@ -13,6 +14,7 @@ struct Medico {
     char nombre[50];
     char especialidad[50];
 };
+
 
 class MedicoCRUD {
 public:
